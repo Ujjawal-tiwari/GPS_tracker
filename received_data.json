@@ -1,0 +1,21 @@
+[
+    {
+        "_type": "location",
+        "BSSID": "86:fd:d1:71:cb:95",
+        "SSID": "WIN-7MF8VSI79CN 0414",
+        "acc": 12,
+        "alt": 17,
+        "batt": 75,
+        "bs": 1,
+        "conn": "w",
+        "created_at": 1716283656,
+        "lat": 20.3407941,
+        "lon": 85.8001486,
+        "m": 2,
+        "tid": "12",
+        "topic": "owntracks/2012/2012",
+        "tst": 1716283655,
+        "vac": 1,
+        "vel": 0
+    }
+]
